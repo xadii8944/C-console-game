@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\bin\Debug\net8.0\simple_game_4.exe
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\bin\Debug\net8.0\simple_game_4.deps.json
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\bin\Debug\net8.0\simple_game_4.runtimeconfig.json
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\bin\Debug\net8.0\simple_game_4.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\bin\Debug\net8.0\simple_game_4.pdb
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\refint\simple_game_4.dll
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.pdb
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\simple_game_4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\szkola\Projektowanie obiektowe C#\simple_game_4\obj\Debug\net8.0\ref\simple_game_4.dll
